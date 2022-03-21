@@ -10,5 +10,5 @@
 <p>Then open up QSM.exe and make a desktop shortcut if you want, make sure you plug in your quest into your computer properly using a cable (use the one in the box if you dont have a USB C cable) Open up BMBF in the headset and click whatever you want to download.</p>
 <p>&nbsp;</p>
 <h2>Troubleshooting/help</h2>
-<p>Send a message to me on Discord if you have any problems:&nbsp;~fuvkingxase~#6115</p>
+<p>Send a message to me on Discord if you have any problems:&nbsp;Juaneth#5381</p>
 <p>&nbsp;</p>
